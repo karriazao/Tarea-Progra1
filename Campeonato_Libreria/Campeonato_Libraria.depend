@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1743380178 source:c:\users\va\desktop\campeonato_libraria\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Campeonato.h"
+
+1743380500 c:\users\va\desktop\campeonato_libraria\include\campeonato.h
+	<vector>
+	"Equipos.h"
+
+1743387176 c:\users\va\desktop\campeonato_libraria\include\equipos.h
+	<string>
+
+1743380186 source:c:\users\va\desktop\campeonato_libraria\src\campeonato.cpp
+	"Campeonato.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1743386811 source:c:\users\va\desktop\campeonato_libraria\src\equipos.cpp
+	"Equipos.h"
+
